@@ -1,0 +1,39 @@
+.left-heading { 
+    /* width: 100%; */
+    max-width: 400px;
+    margin-bottom: 3rem;
+    margin-left: 75%; 
+    font-size: 25px; 
+}
+
+
+
+
+.right-heading p {
+max-width: 200px;
+margin-bottom: 3rem;
+font-size: 25px;
+
+}
+
+
+.right-heading1 p {
+ font-size: 25px; 
+
+}
+
+
+
+.body p {
+font-size:  25px; 
+
+}
+
+
+
+.last-paragraph {
+    max-width: 400px;
+    margin-bottom: 3rem;
+    margin-left: 80%;
+    font-size: 25px;
+}
