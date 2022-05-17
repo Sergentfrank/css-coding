@@ -1,24 +1,28 @@
 .left-heading { 
     /* width: 100%; */
-    max-width: 400px;
-    margin-bottom: 3rem;
-    margin-left: 75%; 
+    max-width: 500px;
+    margin-left: auto; 
     font-size: 25px; 
+    text-align: 400%;
+    line-height: 1;
 }
 
 
 
 
 .right-heading p {
-max-width: 200px;
-margin-bottom: 3rem;
+max-width: 300px;
+margin-bottom: auto;
 font-size: 25px;
+line-height: 0.5;
+text-align: 400;
 
 }
 
 
 .right-heading1 p {
- font-size: 25px; 
+ font-size: 25px;
+ margin: 50px; 
 
 }
 
@@ -26,6 +30,14 @@ font-size: 25px;
 
 .body p {
 font-size:  25px; 
+
+}
+
+.Center{
+font-size: 25px;
+text-align: center;
+
+
 
 }
 
